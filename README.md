@@ -10,7 +10,7 @@ This platform enables colleges to manage academic and administrative operations 
 
 Figma https://www.figma.com/file/vWdwYlkBhr1SJeenKIGLl0/Multi-College-SaaS-Platform-Azure-Architecture?diagram-id=e1b7147a-df89-4954-8ac9-77de1d0fc66c&utm_content=edit_in_figjam&utm_source=claude&ISCI=010402
 
-#KANBAN_BARD
+#KANBAN_BOARD
 
 https://claude.ai/public/artifacts/8b701f6c-8523-440b-8318-9e9cf767eea9
 ---
